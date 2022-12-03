@@ -1,0 +1,9 @@
+{
+	"name": "datafactorysolkem",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3b95ee30-e441-4e0b-976e-69ec7c9a8f2c",
+		"tenantId": "bfaebb92-0746-4abc-b2e8-71bde1bbfebe"
+	}
+}
